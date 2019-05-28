@@ -1,0 +1,16 @@
+1. Stackoverflow (SNAP) -> Needs to be trimmed to 1M nodes
+2,464,606 nodes, 17,823,525 edges
+2. Mathoverflow (SNAP)
+21,688 nodes, 107,581 edges
+3. SuperUser (SNAP)
+167,981 nodes, 430,033 edges
+4. AskUbuntu (SNAP)
+137,517 nodes, 280,102 edges
+5. PythonQ (https://www.kaggle.com/stackoverflow/pythonquestions) : 
+279,335 nodes, 968,850 edges
+6. RQuestions (https://www.kaggle.com/stackoverflow/rquestions#Questions.csv)
+66,637 nodes, 248,284 edges
+7. StackSample (https://www.kaggle.com/stackoverflow/stacksample)
+832,337 nodes, 1,970,843 edges
+8. CrossValidated (https://www.kaggle.com/stackoverflow/statsquestions)
+32,674 nodes, 82,039 edges
